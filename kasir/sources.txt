@@ -1,0 +1,14 @@
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\ConvertImageMain.java
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\GenerateImagesMain.java
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\KasirApplication.java
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\MapImagesMain.java
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\controller\KasirController.java
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\repository\ProductRepository.java
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\uml\ItemTransaksi.java
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\uml\KasirUML.java
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\uml\Pembayaran.java
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\uml\PembayaranDigital.java
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\uml\PembayaranTunai.java
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\uml\Produk.java
+C:\Users\Asus\OneDrive\??\kasir\src\main\java\com\kasir\uml\Transaksi.java
+C:\Users\Asus\OneDrive\??\kasir\src_kasir\KasirApplication.java
